@@ -1,6 +1,6 @@
 # Guidelines for the community project 2023
 
-## gitub guide
+## github guide
 
 ## code style guide
 
